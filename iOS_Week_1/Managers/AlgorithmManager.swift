@@ -39,6 +39,10 @@ class AlgoruthmManager: AlgorithmProtocol {
      Explanation: "amanaplanacanalpanama" is a palindrome.
      */
     func isPalindromTest() {
+        //isPalindromTest
+        
+        let result = isPalindrome( "amanaplanacanalpanama")
+        print("result : \(result)")
         
     }
     
